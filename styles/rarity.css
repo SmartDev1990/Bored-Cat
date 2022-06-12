@@ -1,0 +1,70 @@
+.wrappercard2 {
+background: linear-gradient(180deg, rgba(112,189,245,0.6563667703409488) 0%, rgba(255,255,255,0.6955824566154587) 44%, rgba(112,189,245,0.6899802157191002) 100%);
+display: grid;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+border-radius: 25px;
+max-height: 280px;
+padding: 10px;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+transition: all 0.2s ease-in-out;
+}
+
+.rarity-content {
+font-family: 'cursive', sans-serif;
+font-size: 36px;
+padding: 30px;
+color: white;
+font-style: bold;
+letter-spacing: 0em;
+text-align: left;
+}
+
+@media (min-width: 1200px) {
+  .rarity-content {
+  font-family: 'Arial', sans-serif;
+  font-size: 28px;
+  color: black;
+  letter-spacing: 0em;
+  text-align: left;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+  .rarity-content {
+  font-family: 'cursive', sans-serif;
+  font-size: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+  .rarity-content {
+  font-family: 'cursive', sans-serif;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  }
+}
+
+@media (max-width: 300px), (max-width: 400px), (max-width: 500px) {
+  .rarity-content {
+  font-family: 'cursive', sans-serif;
+  font-size: 18px;
+  font-style: bold;
+  letter-spacing: 0em;
+  text-align: center;
+  }
+}
+
+.subrarity-content {
+font-family: cursive;
+padding: 30px;
+font-size: 18px;
+color: black;
+font-style: bold;
+letter-spacing: 0em;
+text-align: justify;
+}
