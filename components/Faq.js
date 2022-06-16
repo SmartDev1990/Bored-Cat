@@ -89,7 +89,7 @@ class Accordion extends React.Component {
 const panels = [
 	{
 		label: 'Minting Price',
-		content: 'Each Bored Cat will have a mint price 0.1 BNB',
+		content: 'Each Bored Cat will have a mint price 500.000.000 Brise',
 	},
 	{
 		label: 'Mint Maximum',

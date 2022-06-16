@@ -22,8 +22,8 @@ return (
             </div>
             <div className="title mb-5">
               <h3 className="subfeature-content navtext">
-                10.000 Unique <font color="blue" weight= "bold" size="40px" >Bored Cat</font> NFT <br />
-                Build on <font color="purple" font-style= "bold" size="40px" >Bitgert Chain</font> network
+                The Main NFT in <font color="yellow" font-style= "bold" size="40px" href="https://ricenft.store" >Rice Store</font> Platform,
+                Build on <font color="blue" font-style= "bold" size="40px" >Bitgert Chain</font> network
               </h3>
                 <Col className="feature-btn-group">
                 <a
