@@ -17,7 +17,7 @@ return (
       <div className="container">
           <div className="feature-header">
           <h3 className="feature-content">
-          BORED CAT 
+          BORED CAT
           </h3>
             </div>
             <div className="title mb-5">

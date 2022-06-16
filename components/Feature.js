@@ -16,16 +16,6 @@ const Hero = () => {
               <img className="wrappericon" src="/images/NFT7.png" />
             <img className="wrappericon" src="/images/NFT8.png" />
         </div>
-        <div className="wrapper">
-          <img className="wrappericon" src="/images/NFT9.png" />
-             <img className="wrappericon" src="/images/NFT10.png" />
-             <img className="wrappericon" src="/images/NFT11.png" />
-           <img className="wrappericon" src="/images/NFT12.png" />
-           <img className="wrappericon" src="/images/NFT13.png" />
-              <img className="wrappericon" src="/images/NFT14.png" />
-              <img className="wrappericon" src="/images/NFT15.png" />
-            <img className="wrappericon" src="/images/NFT16.png" />
-        </div>
       </div>
     </section>
   );
