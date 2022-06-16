@@ -10,12 +10,14 @@ const Hero = () => {
         <div className="row">
           <div className="col-md-6">
             <h1 className="herotitle">
-              JOIN OUR COMMUNITY <br />
-              ON DISCORD
+              JOIN OUR COMMUNITY
 
             </h1>
             <Button className="SocialMedia2" style={{background: "#71B3FF"}}>
-              JOIN DISCORD
+              DISCORD
+            </Button>
+            <Button className="SocialMedia2" style={{background: "#71B3FF"}}>
+              Twitter
             </Button>
 
           </div>

@@ -202,6 +202,18 @@ border-radius: 20px;
   }
 }
 
+
+.block2 {
+  background: url("/images/bgmap.png");
+  background-size: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+  width: auto;
+  position: relative;
+  padding-bottom: 150px;
+}
+
 .wrappericonw {
 height: 400px;
 width: 400px;

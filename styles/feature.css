@@ -93,7 +93,7 @@ align-index: center;
 
 .feature-content {
 font-family: 'Chieezy Burger', sans-serif;
-font-size: 72px;
+font-size: 50px;
 color: #5b2df4;
 font-style: bold;
 letter-spacing: 0em;
@@ -133,7 +133,7 @@ text-align: center;
 @media (max-width: 300px), (max-width: 400px), (max-width: 500px) {
   .feature-content {
   font-family: 'Chieezy Burger', sans-serif;
-  font-size: 50px;
+  font-size: 40px;
   font-style: bold;
   letter-spacing: 0em;
   text-align: center;
@@ -204,6 +204,33 @@ background-color: #10083B;
 max-width: 100%;
 margin: 0 auto;
 display: flex;
+grid-auto-flow: column;
+grid-auto-columns: repeat(1, 4fr);
+grid-template-rows: auto;
+grid-gap: .5rem;
+margin: .5rem 0;
+flex-wrap: wrap;
+align-items: flex-start;
+justify-content: space-evenly;
+
+/* Screen larger than 600px? 2 column */
+@media screen and (max-width: 600px) {
+  .wrapper {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+}
+
+.listingwrapper {
+max-width: 100%;
+margin: 0 auto;
+display: flex;
+background: linear-gradient(90deg, rgba(112,189,245,0.6759746134782038) 0%, rgba(91,45,244,0.5779353977919293) 44%, rgba(232,112,245,0.6395600476518732) 100%);
+padding: 30px;
+border-radius: 50px;
 grid-auto-flow: column;
 grid-auto-columns: repeat(1, 4fr);
 grid-template-rows: auto;

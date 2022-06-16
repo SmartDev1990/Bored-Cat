@@ -10,6 +10,7 @@ import Faq from '../components/Faq';
 import About from '../components/About';
 import Watermark from '../components/Watermark';
 import SocialMedia from '../components/SocialMedia';
+import Listing from '../components/Listing';
 import Join from '../components/Join';
 import Timeline from '../components/Timeline';
 
@@ -26,6 +27,7 @@ const Index = () => {
       <Timeline />
       <Faq />
       <About />
+      <Listing />
       <Join />
       <SocialMedia />
       <Footer />

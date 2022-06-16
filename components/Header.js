@@ -57,19 +57,22 @@ const Header = () => {
           <Collapse isOpen={isOpen} navbar>
             <Nav navbar>
               <NavItem>
-                <NavLink className="navtext" href="/">Home</NavLink>
+                <NavLink className="navtext" href="/">About</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="navtext" href="#UniqueApe">Exchange</NavLink>
+                <NavLink className="navtext" href="#UniqueApe">Preview</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink  className="navtext" href="#ApeMap">Team</NavLink>
+                <NavLink  className="navtext" href="#ApeMap">Roadmap</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink className="navtext" href="/">Faq</NavLink>
               </NavItem>
               <NavItem>
-              <Button className="SocialMedia" style={{background: "#71B3FF"}} size="sm" >Explore Bored Cat</Button>
+                <NavLink className="navtext" href="/">Stake</NavLink>
+              </NavItem>
+              <NavItem>
+              <Button className="SocialMedia" style={{background: "#71B3FF"}} size="sm" >GEt Free Bored Cat</Button>
               </NavItem>
             </Nav>
           </Collapse>

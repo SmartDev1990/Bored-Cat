@@ -23,7 +23,7 @@ return (
             <div className="title mb-5">
               <h3 className="subfeature-content navtext">
                 10.000 Unique <font color="blue" weight= "bold" size="40px" >Bored Cat</font> NFT <br />
-                Build on <font color="yellow" font-style= "bold" size="40px" >Binance SMart Chain</font> network
+                Build on <font color="yellow" font-style= "bold" size="40px" >Binance Smart Chain</font> network
               </h3>
                 <Col className="feature-btn-group">
                 <a
