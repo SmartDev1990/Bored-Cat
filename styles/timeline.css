@@ -71,7 +71,7 @@
   text-align: center;
   font-size: 14px;
   font-weight: bold;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   color: blue;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -124,7 +124,7 @@
 
 .container1 .content h2 {
   margin: 0 0 10px 0;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   font-size: 18px;
   font-weight: normal;
   color: #006E51;
@@ -132,7 +132,7 @@
 
 .container1 .content p {
   margin: 0;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   font-size: 12px;
   line-height: 22px;
   color: #000000;

@@ -1,6 +1,6 @@
 html,
 body {
-  font-family: 'Chieezy Burger', sans-serif;
+  font-family: 'Righteous', cursive;
   background: #70bdf5;
   background-image: url("/images/background.png"), url("/images/bgtop.png");
   background-size: 100%, 100%;
@@ -13,7 +13,7 @@ body {
 }
 
 h2, h3 {
-    font-family: 'Chieezy Burger', sans-serif;
+    font-family: 'Righteous', cursive;
     font-size: 14px;
 }
 

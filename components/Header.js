@@ -69,9 +69,6 @@ const Header = () => {
                 <NavLink className="navtext" href="/">Faq</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="navtext" href="/">Stake</NavLink>
-              </NavItem>
-              <NavItem>
               <Button className="SocialMedia" style={{background: "#71B3FF"}} size="sm" >GEt Free Bored Cat</Button>
               </NavItem>
             </Nav>

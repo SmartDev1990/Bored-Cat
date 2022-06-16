@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'reactstrap';
 
 const Hero = () => {
   return (
-    <section className="section" style={{marginTop: "150px", marginBottom: "100px"}} id="APEMAP">
+    <section className="section" style={{marginTop: "150px"}} id="APEMAP">
       <h3 className="feature-content2">CAT DISPLAYED</h3>
       <div className="containerApe block2">
       <div className="feature-header">

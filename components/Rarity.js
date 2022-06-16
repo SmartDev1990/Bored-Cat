@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="wrappercard2">
        <Row>
         <Col>
-        <p className="subrarity-content"><font color="blue">Bored Cat</font> is a generation of cats that came and formed a population in the metverse world. <font color="blue">Bored Cat</font> is also a collection of 2D PFP NFTs built on the <font color="yellow">Binance Smart Chain</font> blockchain network.</p>
+        <p className="subrarity-content"><font color="blue">Bored Cat</font> is a generation of cats that came and formed a population in the metverse world. <font color="blue">Bored Cat</font> is also a collection of 2D PFP NFTs built on the <font color="yellow">Bitgert Chain</font> blockchain network. Bored cat also will be main NFT in Rice Store Platform.</p>
         </Col>
         </Row>
         </div>

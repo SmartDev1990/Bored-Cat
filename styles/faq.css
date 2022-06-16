@@ -5,7 +5,7 @@
 .panel {
   background: #FFF;
   display: flex;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   font-style: italic;
   flex-direction: column;
   justify-content: flex-start;
@@ -18,7 +18,7 @@
 }
 .panel__label {
   position: relative;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   display: block;
   width: 100%;
   background: none;
@@ -68,7 +68,7 @@
 }
 .panel__content {
   margin: 8px 0;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   font-size: 1rem;
   color: #000;
   opacity: 0;

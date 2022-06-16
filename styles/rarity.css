@@ -12,7 +12,7 @@ transition: all 0.2s ease-in-out;
 }
 
 .rarity-content {
-font-family: 'cursive', sans-serif;
+font-family: 'Righteous', cursive;
 font-size: 36px;
 padding: 30px;
 color: white;
@@ -33,7 +33,7 @@ text-align: left;
 
 @media (max-width: 1199px) and (min-width: 992px) {
   .rarity-content {
-  font-family: 'cursive', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 36px;
   letter-spacing: 0em;
   text-align: center;
@@ -42,7 +42,7 @@ text-align: left;
 
 @media (max-width: 991px) and (min-width: 768px) {
   .rarity-content {
-  font-family: 'cursive', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 28px;
   letter-spacing: 0em;
   text-align: center;
@@ -51,7 +51,7 @@ text-align: left;
 
 @media (max-width: 300px), (max-width: 400px), (max-width: 500px) {
   .rarity-content {
-  font-family: 'cursive', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 18px;
   font-style: bold;
   letter-spacing: 0em;
@@ -60,7 +60,7 @@ text-align: left;
 }
 
 .subrarity-content {
-font-family: cursive;
+font-family: 'Righteous', cursive;
 padding: 30px;
 font-size: 18px;
 color: black;

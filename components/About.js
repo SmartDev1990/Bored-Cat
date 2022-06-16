@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="wrapper-card">
         <img className="wrappericon1" src="/images/NFT2.png" />
         <p className="Team-content">  Ding </p>
-        <p className="Team-content3"> Co-Founder </p>
+        <p className="Team-content3"> Artist </p>
         </div>
         <div className="wrapper-card">
         <img className="wrappericon1" src="/images/NFT6.png" />
